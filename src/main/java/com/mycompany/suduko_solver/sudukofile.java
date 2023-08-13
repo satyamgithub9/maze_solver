@@ -12,7 +12,7 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author HP
+ * @author SATYAM
  */
 public class sudukofile extends javax.swing.JFrame {
     private String turn = "1";
